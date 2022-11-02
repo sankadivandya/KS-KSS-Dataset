@@ -1,0 +1,16 @@
+a1gq_pS7OYc PATH:=H:\Kinetics-Dataset\child only data -part 2\child set 2\Squat\a1gq_pS7OYc_000050_000060.mp4
+A9ny0YxpT5Y PATH:=H:\Kinetics-Dataset\child only data -part 2\child set 2\Squat\A9ny0YxpT5Y_000050_000060.mp4
+AfeYDp0PRfs PATH:=H:\Kinetics-Dataset\child only data -part 2\child set 2\Squat\AfeYDp0PRfs_000001_000011.mp4
+b35FXlISU-o PATH:=H:\Kinetics-Dataset\child only data -part 2\child set 2\Squat\b35FXlISU-o_000000_000010.mp4
+BNJtlnDUx5U PATH:=H:\Kinetics-Dataset\child only data -part 2\child set 2\Squat\BNJtlnDUx5U_000003_000013.mp4
+JYzlnMvqnzU PATH:=H:\Kinetics-Dataset\child only data -part 2\child set 2\Squat\JYzlnMvqnzU_000031_000041.mp4
+KGLFyct_4Gk PATH:=H:\Kinetics-Dataset\child only data -part 2\child set 2\Squat\KGLFyct_4Gk_000043_000053.mp4
+kxUMULU-NnA PATH:=H:\Kinetics-Dataset\child only data -part 2\child set 2\Squat\kxUMULU-NnA_000013_000023.mp4
+mk3nbEwRSIA PATH:=H:\Kinetics-Dataset\child only data -part 2\child set 2\Squat\mk3nbEwRSIA_000004_000014.mp4
+OPjTgcN-FQM PATH:=H:\Kinetics-Dataset\child only data -part 2\child set 2\Squat\OPjTgcN-FQM_000148_000158.mp4
+QsIP98SekYc PATH:=H:\Kinetics-Dataset\child only data -part 2\child set 2\Squat\QsIP98SekYc_000015_000025.mp4
+UDi-p--lbBg PATH:=H:\Kinetics-Dataset\child only data -part 2\child set 2\Squat\UDi-p--lbBg_000004_000014.mp4
+wcJMyunHCVk PATH:=H:\Kinetics-Dataset\child only data -part 2\child set 2\Squat\wcJMyunHCVk_000009_000019.mp4
+zyOEFzAqAe0 PATH:=H:\Kinetics-Dataset\child only data -part 2\child set 2\Squat\zyOEFzAqAe0_000028_000038.mp4
+_SYATJSKUIg PATH:=H:\Kinetics-Dataset\child only data -part 2\child set 2\Squat\_SYATJSKUIg_000171_000181.mp4
+_yaFebLyxhI PATH:=H:\Kinetics-Dataset\child only data -part 2\child set 2\Squat\_yaFebLyxhI_000024_000034.mp4
