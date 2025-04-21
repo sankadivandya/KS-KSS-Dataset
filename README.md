@@ -1,7 +1,6 @@
 # KS-KSS Dataset
 
-**Please note that this repository is moved to a new repository.
-Link - https://github.com/sankamohotttala/KS-KSS-Dataset/tree/main**
+**Please note that this repository is moved to a new repository. Most of the dataset files arenot in this repository. Link - https://github.com/sankamohotttala/KS-KSS-Dataset/tree/main**
 
 This folder contains a curated subset of the Kinetics-600 dataset. These classes have been selected to represent a diverse range of physical activities relevant to children's action recognition tasks.
 
